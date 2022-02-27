@@ -1,0 +1,298 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A looking-glasse for sope-patentees: or A prospective-glasse, making discovery of a new project contrived and propounded (by the sope-projectors) to the Parliament, to monopolize the soping-mystery, under pretences of good to the state in the duty of excise.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88529</idno>
+            <idno type="STC">Wing L3026</idno>
+            <idno type="STC">Thomason E316_26</idno>
+            <idno type="STC">ESTC R200536</idno>
+            <idno type="EEBO-CITATION">99861254</idno>
+            <idno type="PROQUEST">99861254</idno>
+            <idno type="VID">158979</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88529)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158979)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 52:E316[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A looking-glasse for sope-patentees: or A prospective-glasse, making discovery of a new project contrived and propounded (by the sope-projectors) to the Parliament, to monopolize the soping-mystery, under pretences of good to the state in the duty of excise.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the year 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jan. 19th 1645"; the second 6 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Soap trade --  England --  Early works to 1800.</term>
+               <term>Excise tax --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158979:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 46 -->
+            <p>A LOOKING-GLASSE FOR Sope-Patentees: OR A Proſpective-Glaſſe, making diſco<g ref="char:EOLhyphen"/>very of a new Project contrived and pro<g ref="char:EOLhyphen"/>pounded (by the Sope-Projectors) to the PARLIAMENT, TO Monopolize the Soping-myſtery, under Pretences of good to the STATE in the Duty of EXCIZE.</p>
+            <q>
+               <bibl>
+                  <hi>PROV. 24.21, 22, 23.</hi>
+               </bibl>
+               <p>My Son, Fear thou the Lord and the King, and meddle not with them that are given to change.</p>
+               <p>For their calamity ſhall riſe ſuddenly, and who knoweth the ruine of them both?</p>
+               <p>Theſe things alſo belong to the wiſe, it is not good to have reſpect of perſons in judgement.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed in the Year 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:158979:2"/>
+            <!-- PDF PAGE 47 -->
+            <pb n="3" facs="tcp:158979:2"/>
+            <!-- PDF PAGE 47 -->
+            <p>The Sope-boylers of <hi>London</hi>'s New-project, or the laſt Sope-Patentees, and moſt ancient project<g ref="char:EOLhyphen"/>ing Monopolizers of the Sope-boyling Art. Propoſitions now preſented by them to the Honourable Houſe of Commons, for the Monopolizing of the Sope-boyling art, by Authority of Parliament, firſt propoſed, then anſwered or expounded.</p>
+            <div n="1" type="part">
+               <head>Firſt, Their Propoſitions.</head>
+               <p>
+                  <hi>The Grievances.</hi>
+               </p>
+               <p>THat there are divers perſons of mean condition who in ma<g ref="char:EOLhyphen"/>ny by-corners in and about <hi>London</hi> and <hi>Weſtminſter,</hi> do make and ſell Sope, not having bin Apprentices to that Trade.</p>
+               <list>
+                  <item>I. <hi>That this Sope for the moſt part is deceitfull and unſerviceable.</hi>
+                  </item>
+                  <item>II. <hi>That abundance of this Sope being made and vented here and a<g ref="char:EOLhyphen"/>broad by ſtealth: they wholly deceive the State of the Exciſe thereof.</hi>
+                  </item>
+                  <item>III. <hi>That by this meanes they ſell it at cheaper rates then the Tradeſ<g ref="char:EOLhyphen"/>men paying the Exciſe can afford his Exciz'd Sope, and ſo draw all the trade from the Tradeſmen, whereby their trade is decayed, and ſo conſequently the loſſe falls upon the Exciſe produced out of that Trade beſides the ruine of the Tradeſmen.</hi>
+                  </item>
+               </list>
+               <p>
+                  <hi>The Remedies.</hi>
+               </p>
+               <p>Whereas the Exciſe is but 6. <hi>
+                     <abbr>d.</abbr> per</hi> pound on pot-aſhes, and 3 <abbr>
+                     <hi>s.</hi>
+                  </abbr> on every barrell of Sope.</p>
+               <list>
+                  <item>I. <hi>That the Exciſe may be advanced to</hi> 6 <abbr>s.</abbr> 
+                     <hi>on every hundred weight of Pot-aſhes, being the principall materiall (without which Sope cannot be made) in lieu of the</hi> 3 <abbr>s.</abbr> per <hi>barrell, which amounts to more then both the former Exciſes on Pot-Aſhes and Sope</hi>
+                  </item>
+                  <item>II. <hi>That the Sope-makers may be enabled at their own charges to collect the ſaid Exciſe, and to proceed that due ſearch be made on all Pot-Aſhes imported, that the Exciſe be not evaded.</hi>
+                  </item>
+                  <item>III. <hi>The former Exciſe of Sope, and the materialls thereof being caſt up what it comes to</hi> per Annum, <hi>they will farm the ſame and ſecure the State,</hi> 1000 <abbr>l.</abbr> per Annum, <hi>in certain, more then the former revenew, which is caſt all up, and by the Fraudes aforeſaid daily deceived, and <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> without the enha<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>cing the uſuall price to the Subject.</hi>
+                  </item>
+               </list>
+               <pb n="4" facs="tcp:158979:3"/>
+               <!-- PDF PAGE 48 -->
+               <p>That they propound really (without any by-ends) for the publike good to preſerve their Trade, by which both themſelves and the Exciſe ſubſiſt; otherwiſe if either by this or ſome other like meanes the former Fraudes be not prevented, or if any further impoſition be laid upon Sope, themſelves add their Trade muſt neceſſarily fall to ruine.</p>
+            </div>
+            <div n="2" type="part">
+               <head>Secondly, the Parts or Diviſion of them.</head>
+               <list>
+                  <head>The generall Parts are three.</head>
+                  <item>I. The Reaſons or Arguments on which they ground theſe their Propoſitions, or the grievance of the State, and ſufferings of the ſubject demonſtrated by
+<list>
+                        <item>1. <hi>The Perſons charged as offenders.</hi>
+                        </item>
+                        <item>2. <hi>The manner how, or the preſcription of their offence by theſe three Particulars.</hi>
+                           <list>
+                              <item>1. <hi>By illegall boyling of Sope.</hi>
+                              </item>
+                              <item>2. <hi>By making deceitfull and unſerviceable Sope.</hi>
+                              </item>
+                              <item>3. <hi>By not paying the duty of Exciſe thereof.</hi>
+                              </item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+                  <item>2. The Propoſitions themſelves, or the remedies by them pro<g ref="char:EOLhyphen"/>pounded.</item>
+                  <item>3. Their Proteſtations or Declaration of their ſimplicity in their Propoſitions.</item>
+               </list>
+            </div>
+            <div n="3" type="part">
+               <head>Thirdly, the Expoſition.</head>
+               <p>The anſwer which I ſhal give to theſe general parts, will declare that theſe Propoſitions (what ever theſe Patentees do declare and proteſt by them) are a new project (under vain and deceiving words) by them contrived and propounded to Monopolize the Sope-trade, and to trample upon the liberties, lively hoods, and eſtates of other Sope boy<g ref="char:EOLhyphen"/>lers and Tradeſmen, (which are better Subjects and as free-born as themſelves) now by the Authority of Parliament, as heretofore they have done, by the Authority of the Kings Majeſty, and the Lords of the Privy Councel (in their proſecution of their illegal Patent) gained of them, by the ſelf ſame falſe pretence of good to King and Kingdom. This being premiſed, I come now to the anſwer or expoſition of theſe three Generals.</p>
+               <p>I will ſpeak firſt of the Perſons charged as offenders, deſcribed by theſe two Characters.</p>
+               <list>
+                  <item>1 <hi>Men of mean condition.</hi>
+                  </item>
+                  <item>2. <hi>Not Freemen, boyling in Corners.</hi>
+                  </item>
+               </list>
+               <p>
+                  <hi>Firſt,</hi> They are now mean indeed (and they never ſhall be but mean, if theſe projecting Patentees can but trample upon them by Au<g ref="char:EOLhyphen"/>thority of Parliament) and the reaſon of their poverty is this, becauſe theſe projecting Monopolers have by their ſeveral burlaryes or for<g ref="char:EOLhyphen"/>cible
+<pb n="5" facs="tcp:158979:3"/>
+                  <!-- PDF PAGE 48 -->breaking open of their houſes, Fellonies or forcible taking a<g ref="char:EOLhyphen"/>way their goods, acted upon them, ſpoiled their materials, and by impriſoning their perſons, yea, by their cruel proſecution, have committed ſeveral murthers, or that which amounts to as much; And laſtly, did binde them in Bonds not to boyle Sope, to which they have as much right as themſelves; by all which oppreſſing practiſes, together with the general oppreſſions of the Kingdom, they have built their Neſt on high, they have built their houſes with blood of theſe poor men, and have heaped much riches to themſelves by their oppreſſing Patent. Theſe Patentees being covetous, dealt with theſe poor men, as the unbelieving Iews of <hi>Theſſalonica</hi> moved with envy, dealt with <hi>Paul;</hi> namely, they did take to them certain lewd fellows of the baſer ſort to act their cruelty.</p>
+               <p>
+                  <hi>Secondly,</hi> They are Freemen, and have as much right to the Sope-boyling Art as themſelves, and did ſerve Apprentiſes for their Free<g ref="char:EOLhyphen"/>dom to Trade: And the truth is, theſe Patentees are not Sope-boy<g ref="char:EOLhyphen"/>lers, in right of ſerving Apprentiſhips thereunto, but Salters and Lether-ſellers, although they charge theſe as uſurpers of a Trade; and concerning Sope-boyling, it is not a Manufacture within the Sta<g ref="char:EOLhyphen"/>tute of 5. <hi>Eliz.</hi> limiting Trades, as they would make men believe (as they well know themſelves) but an Art or Myſtery which every Freeman that knows how to boyl, may as lawfully as themſelves uſe Sope-boyling. As for their charging of boyling Sope in corners, they mean, did boyle Sope in corners, if they did mean to ſpeak the truth; and then this preſcription is to be conſidered as words of Patentees, and are thus to be underſtood, to be a Declaration what they forced men to in the time of their Patent, (to eſcape their cruel and barbarous proſecution of the illegal oppreſſing Patent) and not that any now boyle Sope in corners as they here falſly charge them. Beſides this I know, that there are 36. or 37. Complainants in the Committee, and ready to be put in, for reparation for their ſeveral damages; and yet there is but two of them that boyle Sope, and as publiquely as themſelves.</p>
+               <p>Having ſpoken of the perſons charged as offenders, I come now to ſpeak to the offences charged upon them; which are theſe two:</p>
+               <list>
+                  <item>1. <hi>Making deceitfull and unſerviceable Sope: this ſuffering relates to the Subjects.</hi>
+                  </item>
+                  <item>2. <hi>Deceiving the State of the Excize thereof.</hi>
+                  </item>
+               </list>
+               <p>If there be any that deceive the State (beſides themſelves) of the duty of the Exciſe; this I am ſure of, That it cannot be much, a
+<pb n="4" facs="tcp:158979:4"/>
+                  <!-- PDF PAGE 49 -->
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="5" facs="tcp:158979:4"/>
+                  <!-- PDF PAGE 49 -->
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="6" facs="tcp:158979:5"/>
+                  <!-- PDF PAGE 50 -->very inconſiderable ground to propound to ſo Honorable an Aſſem<g ref="char:EOLhyphen"/>bly as the Honorable Houſe of Commons, ſuch Propoſitions (that amounts a Monopoly) for remedy: This being premiſed, I will now to Anſwer the ſecond particular offences above expreſſed.</p>
+               <p n="1">1. Making deceitfull and unſerviceable Sope; there are many hun<g ref="char:EOLhyphen"/>dreds of evidences to prove the contrary; and reaſon tells every rational man, that when men may buy freely, that none will volun<g ref="char:EOLhyphen"/>tarily ſuffer themſelves to be defrauded by deceitfull Sope: And the truth is, This is that falſe allegation which theſe Monopolers have formerly calumniouſly charged upon them, and made it their de<g ref="char:EOLhyphen"/>ceiving Argument to gain their Patent to oppreſſe the Subjects in their priviledges and birth-right, in their eſtates and lively hoods, and they themſelves are now and have been great deceivers of the Kingdom by deceitfull and baſe Sope, which I will demonſtrate to you by three particulars of their practiſes.</p>
+               <list>
+                  <item>1. <hi>They adulterate the Major part of the Sope they make.</hi>
+                  </item>
+                  <item>2. <hi>Witnes the many parcels of Sope which their Chapmen are forced to return to them again not fit for uſe.</hi>
+                  </item>
+                  <item>3. <hi>Witnes the many parcels of old Sope cask which have been ſeized in their hands, and burned in publique view, by which ſaid practiſe they have deceived the Subjects, and gain'd many hundreds of pounds into their purſe by the ſaid deceiving practiſe, though contrary to a Statute Law.</hi>
+                  </item>
+               </list>
+               <p n="2">2. By deceiving the State of the Excize thereof: This is un<g ref="char:EOLhyphen"/>doubtedly a grounded charge, impoſed upon them by theſe their oppreſſors, to render them odious to the Parliament, (who are now Petitioners (in the Honorable Committee of the Houſe of Com<g ref="char:EOLhyphen"/>mons) for reparation for their ſeveral loſſes which they ſuſtained by theſe Projecting Monopolizing Patentees) and the better to accom<g ref="char:EOLhyphen"/>pliſh their wicked deſignes, which is the enriching of themſelves by the ruines of their Brethren, by this new Projecting Monopolizing Propoſitions: And I am confident they are not able to make good their charging of them; but if there be a deceiving of the State in the duty of Excize of Sope, if they which are truſted with the Levy<g ref="char:EOLhyphen"/>ing of the ſaid Excize will but conſider this inſuing Propoſition, (and what is the Annual Revenue of the ſaid Excize) it will evidently de<g ref="char:EOLhyphen"/>monſtrate to them how much they are deceived, and by whom.</p>
+            </div>
+            <div type="part">
+               <head>The Propoſition.</head>
+               <p>
+                  <hi>That weekly there is made in and about</hi> London, <hi>near</hi> 700 <hi>Barrels of Sept, out week with another, all which is made by themſelves, only ſome very ſmall quantities. Now the Revenue of the ſaid Exci<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> doth
+<pb n="7" facs="tcp:158979:5"/>
+                     <!-- PDF PAGE 50 -->annually amount to near the ſum of</hi> 5000. <abbr>l.</abbr> 
+                  <hi>Look upon your Acco<gap reason="illegible" resp="#UOM" extent="3+ letters">
+                        <desc>•••…</desc>
+                     </gap>
+                     <g ref="char:punc">▪</g> and then tell whether you may not ſay to theſe Projectors as once</hi> Elijah in <hi>ſaid to</hi> Ahab, <hi>It is not the oppreſſed Sope-boylers, but your ſelves that have deceived the State of the Excize of Sope.</hi>
+               </p>
+               <p>I come now to ſpeak the Propoſitions themſelves, (or the reme<g ref="char:EOLhyphen"/>dies by them propounded) which is the ſecond general part, wherein they have propounded three things:</p>
+               <p n="1">1. That the Excize of Pot-aſhes which is but 6. <hi>
+                     <abbr>d.</abbr> per</hi> pound, may be advanced to 6. <abbr>
+                     <hi>s.</hi>
+                  </abbr> upon every hundred wait, and 3. <abbr>
+                     <hi>s.</hi>
+                  </abbr> a barrel may be taken off which is charged upon Sope; And they give you two Arguments to enforce this Propoſition: The firſt Argument is in<g ref="char:EOLhyphen"/>cluded, not expreſſed, and it is this, That it is the moſt feaſable way to prevent the deceiving of the State of the duty of Excize, and this is limited in this expreſſion, without which Sope cannot be made. Their ſecond Argument is this, That it will be advantage to the State in the Revenue of the Excize. The other two Propoſitions are but a preſcription of a way how this remedy ſhall be acted.</p>
+               <list>
+                  <item>1. <hi>That they be made ſearchers.</hi> (which have been P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tentees) likely men to be truſted by a State, which have been barbarous and cruel oppreſſors of the Kingdom, and great introducers of the preſent troubles that now lyes upon us.</item>
+                  <item>2. <hi>That they may farm of the State the ſaid Excize.</hi> But before they are truſted, it were meet, as I conceive, under correction, that they did give ſatisfaction, firſt, for the re-infringing of the ſubject; liber<g ref="char:EOLhyphen"/>ties and birth-right in point of Trade, by taking their illegal Patent for their general oppreſſing of the Subject in the price of Sope, and cruel proſecution of their Patent upon hundreds of Free-born Sub<g ref="char:EOLhyphen"/>jects, as is already expreſſed.</item>
+               </list>
+               <p>Theſe things being premiſed, I will briefly, but ſatisfactorily, (in Anſwer to theſe Propoſitions) ſpeak to theſe two particulars.</p>
+               <p n="1">1. Theſe Propoſitions as they are groundleſſe and upon falſe pre<g ref="char:EOLhyphen"/>tences, propounded by theſe Patentees; ſo they are deceiving and oppreſſing, tending to the damage of many Tradeſmen in all parts of the Kingdom.</p>
+            </div>
+            <div type="part">
+               <head>That they are ſo, I prove by theſe two Arguments:</head>
+               <p n="1">1. Pot-aſhes are of a different value, ſome worth four or five and twenty pounds a Tun, others not really above fourteen or twelve pounds. It would be unequall then that the worſt ſort of Aſhes ſhould be chargeable with as much Exciſe as thoſe which are of dou<g ref="char:EOLhyphen"/>ble the value; this oppreſſion would lie heavy not onely upon other
+<pb n="8" facs="tcp:158979:6"/>
+                  <!-- PDF PAGE 51 -->Sope-boylers, but alſo upon Salters and Dyers, and all other Tradeſ<g ref="char:EOLhyphen"/>men that uſe Pot-aſhes.</p>
+               <p n="2">2. One hundred of Pot-aſhes will make two barrels of Sope, and ſome Aſhes will not make above one barrell.</p>
+               <p n="3">3. If the Parliament will but make theſe Projectors ſearchers, and farmers of the Exciſe, they will undoubtedly make themſelves poſſeſ<g ref="char:EOLhyphen"/>ſors of all the beſt Pot-aſhes, and ſo put all the burthen of the Exciſe upon the reſt of the Sope-boylers to their inevitable ruine.</p>
+               <p>Secondly, That theſe Patentees deſign (by theſe deceiving Propo<g ref="char:EOLhyphen"/>ſitions) is to Monopolize the Sope-boyling myſtery into their owne hands (which is ſufficient to maintain 200 Families) as they have done for above 30 yeers together, namely by the ingroſſing into their owne hands all the Pot-aſhes.</p>
+            </div>
+            <div type="part">
+               <head>The reaſon why this muſt be their deſigne.</head>
+               <p>Becauſe the Arguments on which they do ground theſe Propoſitions, are the ſelfe-ſame falſe pretences, and againſt the ſelf-ſame perſons which they did charge to gaine their Patent. There is one Scripture which I will propound that proves this to be their deſign, <hi>Ier.</hi> 13.23. <hi>Can the Ethiopian change his skin or the Leopard his ſpots, then can yee alſo doe good that are accuſtomed to do evill.</hi> I will conclude ſpeaking of this ſecond generall part with this, They offer the Parliament but a 1000 <abbr>l.</abbr> 
+                  <hi>per Annum,</hi> for that which will be as advantagious to them as their Patent, for which they gave the King 40000. <abbr>l.</abbr> of the King<g ref="char:EOLhyphen"/>domes money, not their owne.</p>
+               <p>Their third and laſt generall is their Proteſtation that they have no by-ends in theſe Propoſitions, but really intend the good of the State, and the preſerving of Trade, <hi>Epheſ.</hi> 5.6.</p>
+               <p>What I ſhall ſpeak to this is by way of Caution to our worthy Senators, who are Gods Vice-gerents and bear Gods Image, from whom as from a fountain we ex<g ref="char:EOLhyphen"/>pect that iuſtice ſhall run like water, and judgement like a mighty flood.</p>
+               <list>
+                  <item>1. <hi>Let no man deceive you with vain words,</hi> it is the Word of the Lord by the Apoſtle <hi>Paul.</hi>
+                  </item>
+                  <item>2. You are not to judge by the ſight of the eye, nor by the hearing of the care, but with Righteouſneſſe to judge the poore, and reprove with equity for the meek of the Earth, <hi>Iſa.</hi> 11.3, 4.</item>
+               </list>
+               <p>I will leave all that I have ſaid in anſwer to theſe Propoſitions to the Iudicious Reader, and conclude with this third caution, That if theſe Patentees ſhould obtain their Deſires in theſe Propoſitions, and be oppreſſors in the proſecution of them, and at laſt be called to anſwer their Delinquency, they will tranſlate their offence upon the Parliament, and ſay they did no more then what they comman<g ref="char:EOLhyphen"/>ded them to doe; Witneſſe their Petition, in the anſwering whereof I ſhall de<g ref="char:EOLhyphen"/>clare their Delinquency, in their taking of a Patent more at large.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
